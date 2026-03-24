@@ -81,7 +81,7 @@ I am a <b>Multi-Platform Developer</b> from Karachi. I have moved past the basic
 | **Intraditions** | Web (HTML/CSS/Bootstrap/JS) | [View Code](https://github.com/KashifDev4you/Intraditions-Unveiling-The-Soul-Of-Pakistan) |
 | **Netflix Clone** | Web (HTML/CSS) | [View Code](https://github.com/KashifDev4you/Netflix-Clone-By-HTML-CSS) |
 | **AI-Table-Generator** | Mobile (HTML/CSS/PHP/JS) | [View Code](https://github.com/KashifDev4you/Simple-Loan-Customer-Data-Sheet-Using-PHP-) |
-| **Weather Web App** | Web (HTML/CSS/JS) | [View Code](https://github.com/KashifDev4you/Netflix-Clone-By-HTML-CSS) |
+| **Weather Web App** | Web (HTML/CSS/JS) | [View Code](https://github.com/KashifDev4you/Weather-Web-App) |
 
 
 </div>
